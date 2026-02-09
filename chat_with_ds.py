@@ -1,5 +1,5 @@
 # Please install OpenAI SDK first: `pip3 install openai`
-https://appv2.nloli.xyz/tako_api/secure?token=0x072103a44d41ee126a01c0af4e9d3f5ef4f3839f09d480af81&addFlag=yes&vid=e00be165027
+
 from openai import OpenAI
 
 # 请将 <DeepSeek API Key> 替换为你自己的 DeepSeek API Key
